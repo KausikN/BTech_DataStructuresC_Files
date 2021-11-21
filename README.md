@@ -1,4 +1,4 @@
-# DSA_C_Files
+# BTech_DataStructuresC_Files
 
 :book: Academic Files and Codes
 
