@@ -4,8 +4,8 @@
 //Structs
 struct node
 {
-  	int x;
-  	struct node *nptr;
+	int x;
+	struct node *nptr;
 };
 
 //Prototypes
@@ -23,20 +23,20 @@ void main(){
 	printf("--------------------------Queue using LL----------------------------\n");
 	int tempor=1;
 	while(tempor>0){
-  		printf("What do you want do?\nEnqueue		-	1\nDequeue		-	2\nCheck if Full		-	3\nCheck if Empty		-	4\nExit			-	0\nEnter Option: ");
+		printf("What do you want do?\nEnqueue		-	1\nDequeue		-	2\nCheck if Full		-	3\nCheck if Empty		-	4\nExit			-	0\nEnter Option: ");
 		scanf("%d",&tempor);
 		
 		if(tempor==1){
-  			//Enqueue
-  			printf("-------Enqueue--------\n");
+			//Enqueue
+			printf("-------Enqueue--------\n");
 			printf("Enter value: ");
 			int inp;
 			scanf("%d",&inp);
 			enqueue(inp);
 			print();
-  		}
-  		
-  		if(tempor==2){
+		}
+		
+		if(tempor==2){
 			//Dequeue
 			if(isEmpty()==0){
 				int v = dequeue();	
@@ -63,7 +63,6 @@ void main(){
 			
 		printf("-------------------------------------\n\n");
 	}
-  	
 }
 
 void enqueue(int x){
@@ -123,5 +122,3 @@ void print(){
 		printf("\n\n");
 	}
 }
-
-
