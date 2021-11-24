@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## BTech Data Structures C Files
 
-You can use the [editor on GitHub](https://github.com/KausikN/BTech_DataStructuresC_Files/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+:book: Academic Files and Codes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Institute
 
-### Markdown
+:student: B.Tech (H), IIITDM Kancheepuram
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Course
 
-```markdown
-Syntax highlighted code block
+|    Name    |   Roll No   | SEM |                 Course Name                  |
+| :--------: | :---------: | :-: | :------------------------------------------: |
+|  N Kausik  |  COE17B010  |  3  | Data Structures Practice using C Programming |
 
-# Header 1
-## Header 2
-### Header 3
+## Codes
 
-- Bulleted
-- List
+ - Binary Search Tree
+    - [Implementation](BST/BST.c)
+    - [Library Application](BST/BST_Library.c)
+    - [Min, Max, Level Order](BST/BST_MinMaxLevelOrder.c)
+    - [Telephone Directory](BST/BST_TelephoneDirectory.c)
+    - [Topological](BST/BST_Topological.c)
 
-1. Numbered
-2. List
+ - Circular Queue
+    - [Implementation](CircularQueue/CircularQueue.c)
+    - [Waiting List Application](CircularQueue/CircularQueue_WaitingList.c)
 
-**Bold** and _Italic_ and `Code` text
+ - Linked List
+    - [Audio Playlist (Doubly Linked List)](LinkedList/DoubleLinkedList_AudioPlaylist.c)
+    - [Polynomial Operations](LinkedList/LinkedList_Polynomial.c)
 
-[Link](url) and ![Image](src)
-```
+ - ListADT
+    - [Implementation](ListADT/ListADT.c)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ - Postfix Expressions
+    - [Implementation](Postfix/ConvertPostfix.c)
 
-### Jekyll Themes
+ - Queue
+    - [Queue using Linked List](Queue/Queue_usingLinkedList.c)
+    - [Queue using Stack](Queue/Queue_usingStack.c)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KausikN/BTech_DataStructuresC_Files/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - Stack
+    - [Stack using Linked List](Stack/Stack_usingLinkedList.c)
+    - [Stack using Queue](Stack/Stack_usingQueue.c)
+    - [Library Application](Stack/Stack_Library.c)
+    - [Factorial using Stack](Stack/Stack_Factorial.c)
+    - [Tower of Hanoi](Stack/Stack_TowerofHanoi.c)
