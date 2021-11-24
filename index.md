@@ -1,4 +1,4 @@
-## BTech Data Structures C Files
+# BTech Data Structures C Files
 
 📖 Academic Files and Codes
 
