@@ -1,10 +1,10 @@
 ## BTech Data Structures C Files
 
-:book: Academic Files and Codes
+📖 Academic Files and Codes
 
 ## Institute
 
-:student: B.Tech (H), IIITDM Kancheepuram
+🧑‍🎓 B.Tech (H), IIITDM Kancheepuram
 
 ## Course
 
